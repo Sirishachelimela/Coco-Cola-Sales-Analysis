@@ -1,12 +1,12 @@
 Coca-Cola Sales Analysis – README
-📌 Project Overview
+Project Overview
 
 This project analyzes Coca-Cola’s sales performance across retailers, regions, and months, using a structured Excel dashboard.
 The goal is to identify sales patterns, high-performing markets, low-performing segments, and provide actionable recommendations for improving revenue, brand mix, and distribution strategy.
 
 The dataset includes information on total sales, units sold, operating profit, and brand-wise performance for multiple retailers and regions.
 
-📊 What This Analysis Covers
+What This Analysis Covers
 
 The analysis is divided into three key sheets, each focusing on a different aspect of Coca-Cola’s business:
 
@@ -46,7 +46,7 @@ Monthly units sold
 
 Seasonal sales peaks and dips
 
-🔍 Key Findings
+Key Findings
 Retailer Insights
 
 A few retailers contribute a majority of total sales, showing high dependence on key partners.
@@ -73,7 +73,7 @@ Sales spikes match increases in unit sales, confirming seasonal consumption beha
 
 Brand contribution fluctuates month-to-month, indicating changing consumer preferences throughout the year.
 
-🚀 Recommendations
+Recommendations
 1. Strengthen High-Performing Regions
 
 Allocate more inventory, marketing spend, and promotional campaigns to West and Northeast regions to maximize returns.
@@ -100,7 +100,7 @@ Promote weaker brands in regions where brand concentration is high.
 
 Expand the availability of strong brands (e.g., FizzySip in the West) across new territories.
 
-🧰 Tools Used
+Tools Used
 
 Microsoft Excel
 
@@ -114,7 +114,7 @@ Slicers and Filters
 
 Dashboard Layouts
 
-📝 Conclusion
+Conclusion
 
 This Coca-Cola sales analysis provides a clear understanding of how different regions, retailers, and months contribute to the overall performance.
 The insights and recommendations support data-driven decision-making in areas such as distribution planning, retailer management, marketing strategy, and inventory optimization.
