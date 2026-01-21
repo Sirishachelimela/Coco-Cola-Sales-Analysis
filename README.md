@@ -1,6 +1,6 @@
 🥤 Coca-Cola Sales Analysis (Excel Dashboard)
 📌 Project Overview
-
+---
 This project analyzes Coca-Cola’s sales performance across retailers, regions, brands, and time periods using an interactive Excel dashboard.
 
 The objective is to uncover sales patterns, profitability drivers, and seasonal trends that can support data-driven decisions around:
@@ -16,7 +16,7 @@ Inventory and demand planning
 Brand mix alignment
 
 🎯 Business Objectives
-
+---
 The analysis aims to:
 
 Identify high-performing and underperforming retailers
@@ -30,7 +30,7 @@ Analyze seasonal demand trends
 Support strategic planning and optimization decisions
 
 📂 Dataset Overview
-
+---
 The dataset includes the following key attributes:
 
 Total Sales
@@ -48,7 +48,7 @@ Brand-wise Performance
 Monthly Sales Data
 
 📊 Dashboard Coverage
-
+---
 The analysis is organized into three interactive dashboards:
 
 1️⃣ Retailer Analysis
@@ -89,7 +89,7 @@ Identification of seasonal peaks and dips
 
 🔍 Key Insights & Findings
 🏪 Retailer Insights
-
+---
 A small set of retailers contributes a significant share of total sales, indicating reliance on key partners.
 
 Some retailers show high volume but low profitability, suggesting heavy discounting or low-margin product mix.
@@ -116,7 +116,7 @@ Brand contribution fluctuates month-to-month, reflecting changing consumer prefe
 
 💡 Strategic Recommendations
 1️⃣ Strengthen High-Performing Regions
-
+---
 Increase inventory allocation and marketing investment in West and Northeast regions.
 
 Leverage strong regional demand to maximize revenue returns.
@@ -158,7 +158,7 @@ Slicers & Filters
 Interactive Dashboard Design
 
 📈 Conclusion
-
+---
 This Coca-Cola Sales Analysis delivers a holistic view of sales performance across retailers, regions, brands, and time.
 
 The insights enable:
